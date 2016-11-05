@@ -1,0 +1,8 @@
+E:\IUBianzz Corner\Ecommerce\Ecommerce\bin\Ecommerce.dll
+E:\IUBianzz Corner\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+E:\IUBianzz Corner\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+E:\IUBianzz Corner\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\Ecommerce\Ecommerce\bin\Ecommerce.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\Ecommerce\Ecommerce\bin\Ecommerce.pdb
+C:\Users\pc\Documents\Visual Studio 2010\Projects\Ecommerce\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\pc\Documents\Visual Studio 2010\Projects\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
